@@ -109,7 +109,7 @@
 		"name": "punctuation.definition",
 		"scope": "punctuation.definition.string.begin,punctuation.definition.string.end",
 		"settings": {
-		  "foreground": "#04A01D"
+		  "foreground": "#5B0EEB"
 		}
 	  },
 	  {
@@ -123,7 +123,7 @@
 		"name": "Comment Markup Link",
 		"scope": "comment markup.link",
 		"settings": {
-		  "foreground": "#6394e0"
+		  "foreground": "#00FF29"
 		}
 	  },
 	  {
@@ -1877,21 +1877,21 @@
 	  "listFilterWidget.background": "#ffb80089",
 	  "listFilterWidget.outline": "#00000000",
 	  "listFilterWidget.noMatchesOutline": "#00ff04",
-	  "statusBar.foreground": "#ffffff",
-	  "statusBar.background": "#212121",
+	  "statusBar.foreground": "#FFB800",
+	  "statusBar.background": "#222222",
 	  "statusBarItem.hoverBackground": "#222222",
 	  "statusBar.border": "#ffffff06",
-	  "statusBar.debuggingBackground": "#cc6633",
-	  "statusBar.debuggingForeground": "#ffffff",
-	  "statusBar.debuggingBorder": "#001b86",
-	  "statusBar.noFolderBackground": "#68217a",
+	  "statusBar.debuggingBackground": "#222222",
+	  "statusBar.debuggingForeground": "#FFB800",
+	  "statusBar.debuggingBorder": "#FFB800",
+	  "statusBar.noFolderBackground": "#222222",
 	  "statusBar.noFolderForeground": "#ffffff",
-	  "statusBarItem.remoteBackground": "#ffb800",
-	  "statusBarItem.remoteForeground": "#ffffff",
-	  "titleBar.activeBackground": "#383838",
-	  "titleBar.activeForeground": "#ffffff",
+	  "statusBarItem.remoteBackground": "#222222",
+	  "statusBarItem.remoteForeground": "#FFB800",
+	  "titleBar.activeBackground": "#222222",
+	  "titleBar.activeForeground": "#FFB800",
 	  "titleBar.inactiveBackground": "#2a2a2a99",
-	  "titleBar.inactiveForeground": "#ffffff99",
+	  "titleBar.inactiveForeground": "#FFB800",
 	  "titleBar.border": "#ffb8009f",
 	  "menubar.selectionForeground": "#ffffff",
 	  "menubar.selectionBackground": "#ffffff1a",
