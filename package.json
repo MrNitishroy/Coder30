@@ -13,6 +13,7 @@
   "engines": {
     "vscode": "^1.71.0"
   },
+  "icon": "icon.svg",
   "categories": [
     "Themes"
   ],
