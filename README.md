@@ -1,5 +1,5 @@
 # Code30 README
-<img src="https://www.blogger.com/u/2/blog/post/edit/362621284932170063/2860487387023985531">
+<img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiyYct0_Sppvjll5XteeV_dNKYcf838ptBYiC4XKOohzque0Gg5JuqS_cSWhOvA8FfRn1YsrUaYllW6wWPMFIzjIoZg4dE8ira0GWFkovWTFKVsOeKKS1WVGLemwCTdRO0tMREaqMEiWcvC1BBb6aVTxCd4m_bkoCHh7Y8mREJjJokK7rRFZxKsMu1bZg/s1366/TQWYLtAS-commandPalette.jpeg">
 
 Install
 Go to VS Marketplace.
@@ -12,3 +12,5 @@ Additionally, there are also two older themes. Note: They might not get updated 
 # Clone and open this<a href="https://github.com/MrNitishroy/Coder30"> repo</a> in VS Code
 Run yarn to install the dependencies.
 Press F5 to open a new window with your extension loaded
+https://www.blogger.com/u/2/blog/post/edit/362621284932170063/2860487387023985531#
+https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiyYct0_Sppvjll5XteeV_dNKYcf838ptBYiC4XKOohzque0Gg5JuqS_cSWhOvA8FfRn1YsrUaYllW6wWPMFIzjIoZg4dE8ira0GWFkovWTFKVsOeKKS1WVGLemwCTdRO0tMREaqMEiWcvC1BBb6aVTxCd4m_bkoCHh7Y8mREJjJokK7rRFZxKsMu1bZg/s1366/TQWYLtAS-commandPalette.jpeg
