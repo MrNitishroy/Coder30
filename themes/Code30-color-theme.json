@@ -109,7 +109,7 @@
 		"name": "punctuation.definition",
 		"scope": "punctuation.definition.string.begin,punctuation.definition.string.end",
 		"settings": {
-		  "foreground": "#00ff29"
+		  "foreground": "#04A01D"
 		}
 	  },
 	  {
