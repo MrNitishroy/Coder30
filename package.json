@@ -1,0 +1,31 @@
+{
+  "name": "Coder30",
+  "displayName": "Coder30",
+  "description": "This is best theme for coder and Students as well",
+  "publisher": "Coder30",
+  "keywords": [
+    "Coder30",
+    "Coder30 theme",
+    "ni30 theme",
+    "Coder theme"
+  ],
+  "version": "0.1.0",
+  "engines": {
+    "vscode": "^1.71.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Code30",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Code30-color-theme.json"
+      }
+    ]
+  },
+  "dependencies": {
+    "vsce": "^2.11.0"
+  }
+}
