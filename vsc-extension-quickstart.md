@@ -23,6 +23,6 @@
 To learn more about scopes and how they're used, check out the [color theme](https://code.visualstudio.com/api/extension-guides/color-theme) documentation.
 
 ## Install your extension
-
+* https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhzV20j5BPgqlxAyqzjiGcEAbvPcujVzLxwtj7DxHxKql2WzbbN6G7E9FDhEG6zhBCPlnXExR8U_2gVpGMkrQqn5ARv9iYbWD8iN9JoQHEJFBorSTBR7IXRWzsqbAXtJcyqJwqJ1lXnjv_n0PfUye4fs77CFD_iYpWvfk-1xD1O68nc61fmqbC1oOW_9Q/s128/Group%2087.png
 * To start using your extension with Visual Studio Code copy it into the `<user home>/.vscode/extensions` folder and restart Code.
 * To share your extension with the world, read on https://code.visualstudio.com/docs about publishing an extension.
