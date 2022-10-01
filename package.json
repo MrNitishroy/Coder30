@@ -9,6 +9,7 @@
     "ni30 theme",
     "Coder theme"
   ],
+  "icon": "logo.png",
   "version": "0.12.0",
   "engines": {
     "vscode": "^1.71.0"
