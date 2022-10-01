@@ -13,6 +13,7 @@
 		"foreground": "#00ade2"
 	  }
 	},
+	
 	"tokenColors": [
 	  {
 		"name": "unison punctuation",

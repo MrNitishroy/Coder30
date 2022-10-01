@@ -20,13 +20,19 @@
   "contributes": {
     "themes": [
       {
-        "label": "Code30",
+        "label": "Code30-dark",
         "uiTheme": "vs-dark",
         "path": "./themes/Code30-color-theme.json"
+      },
+      {
+        "label": "Code30-light",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Light.json"
       }
     ]
   },
   "dependencies": {
     "vsce": "^2.11.0"
   }
+  
 }
