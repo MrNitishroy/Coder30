@@ -9,8 +9,9 @@
     "ni30 theme",
     "Coder theme"
   ],
+  
   "icon": "logo.png",
-  "version": "0.15.0",
+  "version": "0.17.0",
   "engines": {
     "vscode": "^1.71.0"
   },
@@ -23,6 +24,7 @@
         "label": "Code30-dark",
         "uiTheme": "vs-dark",
         "path": "./themes/Code30-color-theme.json"
+        
       },
       {
         "label": "Code30-light",
