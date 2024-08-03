@@ -1,8 +1,9 @@
 {
-  "name": "Coder30",
+  "name": "coder30",
   "displayName": "Coder30",
   "description": "This is best theme for coder and Students as well",
   "publisher": "Nitishroy7033",
+  "version": "1.0.0",
   "keywords": [
     "Coder30",
     "Coder30 theme",
@@ -11,7 +12,6 @@
   ],
 
   "icon": "logo.png",
-  "version": "0.19.0",
   "engines": {
     "vscode": "^1.71.0"
   },
@@ -21,15 +21,20 @@
   "contributes": {
     "themes": [
       {
-        "label": "Code30-dark",
+        "label": "Dark-yellow",
         "uiTheme": "vs-dark",
-        "path": "./themes/Dark.json"
+        "path": "./themes/dark-yellow.json"
         
       },
       {
         "label": "Code30-light",
-        "uiTheme": "vs-dark",
+        "uiTheme": "hc-light",
         "path": "./themes/Light.json"
+      },
+      {
+        "label": "Dark-Grey",
+        "uiTheme": "vs-dark",
+        "path": "./themes/dark-grey.json"
       }
     ]
   },
